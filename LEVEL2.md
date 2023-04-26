@@ -19,15 +19,33 @@ I2C combines the best features of SPI and UARTs. With I2C, you can connect multi
 
 ## Task 4 - BMS  
 
-Battery management system (BMS) is technology dedicated to the oversight of a battery pack, which is an assembly of battery cells, electrically organized in a row x column matrix configuration to enable delivery of targeted range of voltage and current for a duration of time against expected load scenarios. 
- 
+Battery management system (BMS) is technology dedicated to the oversight of a battery pack, which is an assembly of battery cells, electrically organized in a row x column matrix configuration to enable delivery of targeted range of voltage and current for a duration of time against expected load scenarios.  
 [Notes](https://www.synopsys.com/glossary/what-is-a-battery-management-system.html)  
-[Task](https://www.youtube.com/watch?v=OBlmPQVaO4E&amp;ab_channel=ShaunDobbie)
+[Task](https://www.youtube.com/watch?v=OBlmPQVaO4E)
 
 ## Task 5 - Speed Control of BLDC  
 
-BLDC is a popular motor used in EV, learn their speed control  
+BLDC is a popular motor used in EV, learn their speed control .Brushless DC motors (BLDC) feature high efficiency and excellent controllability, and are widely used in many applications. The BLDC motor has power-saving advantages relative to other motor types. Observe its working using the CRO 
+at Marvel  
 [Task](https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/) 
  
-[Understand the speed control using pi controller](https://www.youtube.com/watch?v=8-5Jb6QSS0Q&amp;ab_channel=PZEngineering)
+[Understand the speed control using pi controller](https://www.youtube.com/watch?v=8-5Jb6QSS0Q)  
+
+## Task 6 - Make an Atmega32 - Atmega8 Master-Slave SPI Communication  
+
+The SPI is a very simply Synchronous Peripheral Interfacing(allows devices to send and receive data at the same time) is full duplex communication. This protocol is developed by Motorola. With this interface, one Master device which initiates and controls the communication, and one or more slaves who receive and transmit to the Master.  
+[Task](https://www.instructables.com/Atmega32-Atmega8-Master-Slave-SPI-Communication/)  
+
+## Task 7 - Make a Lithium-ion Battery Pack  
+
+Make a lithium ion battery pack with 12 cells to make a BMS supply of 44.4V, 4.8Ah, 50A cont. discharge rate (BMS limiting at 60A)  
+
+## Task 8 - Working with multiple sensors  
+Use the chasis from the first task to make a fully equipped RC control car. Use any 3 sensors of your choice to provide the respective data from the sensors. Use up all of the above task to have an application in this car.
+
+
+
+
+
+
 
