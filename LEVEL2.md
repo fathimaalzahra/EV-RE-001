@@ -1,4 +1,4 @@
-## Task 1 - Chassis  
+## TASK 1- Build Chassis  
 
 Design, 3d print and assemble a chassis. Explain the functionalities or reasons for each structure/shape if necessary.
 
