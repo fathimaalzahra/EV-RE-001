@@ -1,16 +1,19 @@
 ## TASK 1- Build Chassis  
 
-Design, 3d print and assemble a chassis. Explain the functionalities or reasons for each structure/shape if necessary.
+Use any software of your comfort to design a complete chassis of an RC car with dimensions compatible to be printed on the 3D printer available in MARVEL. The chassis should be have a calculated weight distribution depending on the application.
 
 ## Task 2 - SPI Communication  
 
+Use any software of your comfort to design a complete chassis of an  RC car with dimensions compatible  to be printed on the 3D printer available in MARVEL. The chassis should be have a calculated weight distribution depending on the application  
+[Understand](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)  
 [Understand](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)  
+[Task](https://microcontrollerslab.com/spi-communication-between-two-arduino-boards/)  
+[Learn](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1667176595632&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
-[Task](https://microcontrollerslab.com/spi-communication-between-two-arduino-boards/)
+## Task 3 - I2C Control   
 
-## Task 3 - I2C Protocol  
-
-Understand the I2C protocol and make a small model implementing the same  
+I2C combines the best features of SPI and UARTs. With I2C, you can connect multiple slaves to a single master (like SPI) and you can have multiple masters controlling single, or multiple slaves. This is really useful when you want to have more than one microcontroller logging data to a single memory card or displaying text to a single LCD.  
+[Notes](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)  
 [Notes](https://www.ti.com/lit/an/slva704/slva704.pdf?ts=1667176595632&amp;ref_url=https%253A%252F%252Fwww.google.com%252F)  
 [Task](https://circuitdigest.com/microcontroller-projects/arduino-i2c-tutorial-communication-between-two-arduino)
 
